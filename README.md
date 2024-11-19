@@ -1,10 +1,10 @@
-Also available in [Chinese Version](README.cn.md).
+<span id="lang-switch">Other available language: [简体中文](README.cn.md)</span>
 
 ![logo](/img/songzhumei-logo.png)
 
 # SongZhuMei Project
 
-Songzhumei means `Pine`, `bamboo` and `Plum`.
+SongZhuMei means `Pine`, `Bamboo` and `Plum`.
 
 Pine, bamboo, and plum are collectively known as the “Three Friends of Winter Cold”. These three plants are named for their ability to maintain a strong life force even in the depth of winter.  They are a symbol of noble personality in the traditional Chinese culture.
 
@@ -18,7 +18,7 @@ Over a period of three years (until November 2027), the adaptation of mainstream
   - Support 10 mass-produced AI acceleration cards or IP based on the AI extension of the RISC-V instruction set.
   - Support mainstream AI frameworks, including PyTorch, TensorFlow, Triton, Paddlepaddle.
 - Performance Goals:
-  - The coverage rate reaches 50% of the domestic AI computing ability with the AI accelerator on the AI extension of the RISC-V instruction set.
+  - The coverage rate reaches 50% of the Chinese domestic AI computing ability with the AI accelerator on the AI extension of the RISC-V instruction set.
   - The utilization rate of AI computing ability reaches 60% of the theoretical upper limit of the computing ability.
 - Community Activity Goals
   - Build an AI software stack developer community with more than 100 core developers and more than 5,000 contributors
@@ -30,7 +30,21 @@ Over a period of three years (until November 2027), the adaptation of mainstream
 
 ## Steering Committee
 
-- Chief Consultant：Mei Hong (Peking University)
-- Chair: Xie Tao (Chair of the AI/ML SIG of RISC-V International)
-- Vice Chair: Wu Wei (Chair of the ISA Infrastructure SIG of RISC-V International, Director of Jiachen Project)
-- Key Members：Li Guangwu (Shanghai Open Processor Industrial Innovation Center), Bao Yungang (Beijing Institute of Open Source Chip), Yang Zhi (Peking University), Yan Min (Fudan University), Xie Yuan (The Hong Kong University of Science and Technology), Wu Yanjun (Institute of Software, Chinese Academy of Sciences), Dai Hongjun (Shandong University), Gao Peng (Sophgo)
+Chief Consultant:
+: Mei Hong (Peking University)
+
+Chair:
+: Xie Tao (Chair of the AI/ML SIG of RISC-V International)
+
+Vice Chair:
+: Wu Wei (Chair of the ISA Infrastructure SIG of RISC-V International, Director of Jiachen Project)
+
+Key Members:
+: Li Guangwu (Shanghai Open Processor Industrial Innovation Center)
+: Bao Yungang (Beijing Institute of Open Source Chip)
+: Yang Zhi (Peking University)
+: Yan Min (Fudan University)
+: Xie Yuan (The Hong Kong University of Science and Technology)
+: Wu Yanjun (Institute of Software, Chinese Academy of Sciences)
+: Dai Hongjun (Shandong University)
+: Gao Peng (Sophgo)
