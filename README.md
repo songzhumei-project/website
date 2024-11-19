@@ -1,6 +1,6 @@
-<img width="180" alt="image" src="https://github.com/user-attachments/assets/9dcac322-2307-4fca-9a38-10064788d7d9">
-
 Also available in [Chinese Version](README.cn.md).
+
+![logo](/img/songzhumei-logo.png)
 
 # SongZhuMei Project
 
