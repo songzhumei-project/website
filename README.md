@@ -37,7 +37,7 @@ Chair:
 : Xie Tao (Chair of the AI/ML SIG of RISC-V International)
 
 Vice Chair:
-: Wu Wei (Chair of the ISA Infrastructure SIG of RISC-V International, Director of Jiachen Project)
+: Wu Wei (Chair of the ISA Infra HC of RISC-V International, Director of Jiachen Project)
 
 Key Members:
 : Li Guangwu (Shanghai Open Processor Industrial Innovation Center)
