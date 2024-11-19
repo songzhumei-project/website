@@ -1,36 +1,50 @@
-Also available in [Chinese Version](README.cn.md).
+<span id="lang-switch">其他可用语言： [English](README.md)</span>
 
 ![logo](/img/songzhumei-logo.png)
 
-# SongZhuMei Project
+# SongZhuMei 项目
 
-Songzhumei means `Pine`, `bamboo` and `Plum`.
+SongZhuMei 即「松」、「竹」、「梅」。
 
-Pine, bamboo, and plum are collectively known as the “Three Friends of Winter Cold”. These three plants are named for their ability to maintain a strong life force even in the depth of winter.  They are a symbol of noble personality in the traditional Chinese culture.
+松、竹、梅合称「岁寒三友」。这三种植物因在严冬中仍能保持旺盛的生命力而得名。在中国传统文化中，它们是高尚人格的象征。
 
-## Vision and Mission
+## 愿景和目标
 
-Over a period of three years (until November 2027), the adaptation of mainstream AI frameworks, such as PyTorch, TensorFlow, Triton, Paddlepaddle, on mass-production AI acceleration cards/modules/IP (including training and inference, cloud-side and edge-side) based on the AI extension of the RISC-V instruction set.
+在三年时间内（至 2027 年 11 月），在大规模量产的基于 RISC-V AI 指令集扩展的 AI 加速卡/加速模块/加速 IP （包含训练和推理、云侧和端侧）上，适配 PyTorch、TensorFlow、Triton、飞浆等主流 AI 框架。
 
-## Goals
+## 指标
 
-- Functional Goals:
-  - Support 10 mass-produced AI acceleration cards or IP based on the AI extension of the RISC-V instruction set.
-  - Support mainstream AI frameworks, including PyTorch, TensorFlow, Triton, Paddlepaddle.
-- Performance Goals:
-  - The coverage rate reaches 50% of the domestic AI computing ability with the AI accelerator on the AI extension of the RISC-V instruction set.
-  - The utilization rate of AI computing ability reaches 60% of the theoretical upper limit of the computing ability.
-- Community Activity Goals
-  - Build an AI software stack developer community with more than 100 core developers and more than 5,000 contributors
+- 功能指标：
+  - 支持 10 款基于 RISC-V AI 指令集扩展的国内外量产 AI 加速卡或 IP
+  - 支持 PyTorch、TensorFlow、Triton、飞浆等国内外主流 AI 框架
+- 性能指标：
+  - 基于 RISC-V AI 指令集扩展的 AI 加速器覆盖率达到国产 AI 算力市场产品的 50%
+  - AI 算力利用率达到理论硬件算力的 60%
+- 社区活跃指标：
+  - 建设达到超过 100 名核心开发者、超过 5000 名贡献者参与的 AI 软件栈开发者社区
 
-## Support System
+## 支撑体系
 
-- Jiachen Project (RISC-V Prosperity 2036): “RISC-V Prosperity 2036” Plan will provide more than 5,000 interns and volunteers with the open source intern joint recruitment and training system, and establish AI "computing farm" based on the AI extension of the RISC-V ISA.
-- Dongshan RISC-V Cluster: The First World-Open RISC-V Cluster for the Community Contributors  
+- 甲辰计划：甲辰计划将为超过 5000 名实习生和志愿者提供开源实习生联合招募和培训系统，并建立基于 RISC-V 开放指令集标准的 AI 「算力农场」。
+- 东山集群：世界首个为社区贡献者开放的 RISC-V 服务器集群。
 
-## Steering Committee
+## 指导委员会
 
-- Chief Consultant：Mei Hong (Peking University)
-- Chair: Xie Tao (Chair of the AI/ML SIG of RISC-V International)
-- Vice Chair: Wu Wei (Chair of the ISA Infrastructure SIG of RISC-V International, Director of Jiachen Project)
-- Key Members：Li Guangwu (Shanghai Open Processor Industrial Innovation Center), Bao Yungang (Beijing Institute of Open Source Chip), Yang Zhi (Peking University), Yan Min (Fudan University), Xie Yuan (The Hong Kong University of Science and Technology), Wu Yanjun (Institute of Software, Chinese Academy of Sciences), Dai Hongjun (Shandong University), Gao Peng (Sophgo)
+首席顾问：
+: 梅宏（北京大学）
+
+主席：
+: 谢涛（RISC-V 国际基金会人工智能&机器学习专委会主席）
+
+副主席：
+: 吴伟（RISC-V 国际基金会-中国联络人&指令集基础架构委员会主席，甲辰计划主理人）
+
+委员：
+: 李广武（上海开放处理器产业创新中心）
+: 包云岗（北京开源芯片研究院）
+: 杨智（北京大学）
+: 杨珉（复旦大学）
+: 谢源（香港科技大学）
+: 武延军（中国科学院软件所）
+: 戴鸿君（山东大学）
+: 高鹏（算能科技）

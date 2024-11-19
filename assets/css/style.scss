@@ -1,0 +1,24 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+span#lang-switch {
+    display: block;
+    text-align: right;
+    font-size: 80%;
+    opacity: .8;
+}
+
+.markdown-body {
+    dl {
+        dt {
+            font-style: normal;
+            font-weight: normal;
+            font-size: 90%;
+            opacity: .9;
+        }
+        dd {
+        }
+    }
+}
