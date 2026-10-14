@@ -1,8 +1,15 @@
-<span id="lang-switch">其他可用语言： [English](README.md)</span>
-
-![logo](/img/songzhumei-logo.png)
-
-# 松竹梅计划
+---
+title: 松竹梅计划
+tagline: 松、竹、梅，让主流 AI 框架运行在 RISC-V AI 加速器之上。
+lang: zh-CN
+alt_lang: en
+alt_lang_label: English
+alt_lang_url: /
+brand: 松竹梅计划
+brand_tagline: RISC-V + AI
+source_label: 网站源码
+friends_label: 社区友链
+---
 
 松、竹、梅合称「岁寒三友」。这三种植物因在严冬中仍能保持旺盛的生命力而得名。在中国传统文化中，它们是高尚人格的象征。
 
@@ -20,11 +27,13 @@
   - AI 算力利用率达到理论硬件算力的 60%
 - 社区活跃指标：
   - 建设达到超过 100 名核心开发者、超过 5000 名贡献者参与的 AI 软件栈开发者社区
+{: .cards}
 
 ## 支撑体系
 
 - 甲辰计划：甲辰计划将为超过 5000 名实习生和志愿者提供开源实习生联合招募和培训系统，并建立基于 RISC-V 开放指令集标准的 AI 「算力农场」。
 - 东山集群：世界首个为社区贡献者开放的 RISC-V 服务器集群。
+{: .cards}
 
 ## 指导委员会
 
@@ -46,3 +55,4 @@
 : 武延军（中国科学院软件所）
 : 戴鸿君（山东大学）
 : 高鹏（算能科技）
+{: .committee}

@@ -1,8 +1,13 @@
-<span id="lang-switch">Other available language: [简体中文](README.cn.md)</span>
-
-![logo](/img/songzhumei-logo.png)
-
-# SongZhuMei Project
+---
+title: SongZhuMei Project
+tagline: Pine, bamboo and plum. Bringing mainstream AI frameworks to RISC-V AI accelerators.
+lang: en
+alt_lang: zh-CN
+alt_lang_label: 简体中文
+alt_lang_url: /README.cn.html
+brand: SongZhuMei Project
+brand_tagline: RISC-V + AI
+---
 
 SongZhuMei means `Pine`, `Bamboo` and `Plum`.
 
@@ -22,11 +27,13 @@ Over a period of three years (until November 2027), the adaptation of mainstream
   - The utilization rate of AI computing ability reaches 60% of the theoretical upper limit of the computing ability.
 - Community Activity Goals
   - Build an AI software stack developer community with more than 100 core developers and more than 5,000 contributors
+{: .cards}
 
 ## Support System
 
 - Jiachen Project (RISC-V Prosperity 2036): “RISC-V Prosperity 2036” Plan will provide more than 5,000 interns and volunteers with the open source intern joint recruitment and training system, and establish AI "computing farm" based on the AI extension of the RISC-V ISA.
-- Dongshan RISC-V Cluster: The First World-Open RISC-V Cluster for the Community Contributors  
+- Dongshan RISC-V Cluster: The First World-Open RISC-V Cluster for the Community Contributors
+{: .cards}
 
 ## Steering Committee
 
@@ -48,3 +55,4 @@ Key Members:
 : Wu Yanjun (Institute of Software, Chinese Academy of Sciences)
 : Dai Hongjun (Shandong University)
 : Gao Peng (Sophgo)
+{: .committee}
