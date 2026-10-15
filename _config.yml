@@ -1,3 +1,28 @@
 name: SongZhuMei Project (松竹梅计划)
-title: null
+title: SongZhuMei Project (松竹梅计划)
+description: Adapting mainstream AI frameworks to mass-produced RISC-V AI accelerators by November 2027.
+lang: en
+url: https://songzhumei-project.org
+repository: songzhumei-project/website
+github_url: https://github.com/songzhumei-project
 
+# Friend links shown in the footer. Remove the list to hide the row.
+friend_links:
+  - name: 甲辰计划 / Jiachen Project
+    url: https://rv2036.org
+  - name: HelloGCC / OSDT
+    url: https://hellogcc.org
+  - name: HelloLLVM
+    url: https://hellollvm.org
+  - name: CNRV
+    url: https://cnrv.io
+  - name: PLCT Lab
+    url: https://plctlab.github.io
+
+# README.md carries front matter, keep serving it as the index page.
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - LICENSE
+  - vendor
